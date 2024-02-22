@@ -9,6 +9,7 @@ namespace testtask1
             Console.WriteLine("Hello World!");
             var studentname = Console.ReadLine();
             Console.WriteLine("your name is : " + studentname);
+            Console.WriteLine("saad ul hassan" + studentname);
         }
     }
 }
